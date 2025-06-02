@@ -7,7 +7,7 @@
 
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from pair or scan qr.",
+            "description": "Manu-MD&SNtE2TSJ#_ExGQECcQ__7He8wqTnx9eGaqv19qScQfwd1vrWWpx0",
             "required": true,
             "value": "put session id here"
         }
